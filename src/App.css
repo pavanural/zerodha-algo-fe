@@ -1,0 +1,23 @@
+body {
+  margin: 0;
+  background: #0b0e11;
+  color: #fff;
+  font-family: sans-serif;
+}
+
+.timeframe {
+  padding: 10px;
+}
+
+.timeframe button {
+  background: #1e222d;
+  color: #d1d4dc;
+  border: none;
+  margin-right: 8px;
+  padding: 6px 12px;
+  cursor: pointer;
+}
+
+.timeframe .active {
+  background: #2962ff;
+}
